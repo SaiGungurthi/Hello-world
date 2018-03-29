@@ -91,7 +91,7 @@ NameError: name 'squad' is not defined
 >>> Squad.insert(21, "88")
 >>> Squad
 ['1', '2', '3', '99', '10', '07', '99', '100', '100', '101', '88']
->>> Squad.pop(21)
+>>> Squad. (21)
 
 Traceback (most recent call last):
   File "<pyshell#34>", line 1, in <module>
